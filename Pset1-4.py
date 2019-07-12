@@ -1,2 +1,2 @@
-string=input()
-print(string+'.')
+string1=input()
+print(string1+'.')
