@@ -1,3 +1,3 @@
-s=input()
+p=input()
 
-print("".join(reversed(s)))
+print("".join(reversed(p)))
