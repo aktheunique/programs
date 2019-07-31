@@ -6,7 +6,7 @@ for i in range(len(l1)):
     if l[-1]==l1[i]:
         print(l[-1],end=" ")
     else:
-        if l[-1]<l1[i]:
+        if l[-1]<=l1[i]:
             print(l1[i],end=" ")
         else:
             print(l1[i-1])
