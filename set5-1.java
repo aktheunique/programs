@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class set5-1
+public class Begin41
 {
 	public static void main(String[] args) {
 	    Scanner sc=new Scanner(System.in);
