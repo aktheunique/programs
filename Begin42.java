@@ -8,8 +8,11 @@ public class Begin42
 		if(s1.compareTo(s2)>0){
 		    System.out.println(s1);
 		}
-		else{
+		else if(s1.compareTo(s2)<0){
 		    System.out.println(s2);
+		}
+		else{
+		    System.out.println(s1);
 		}
 	}
 }
